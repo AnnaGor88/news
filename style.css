@@ -18,8 +18,8 @@ a:hover {
 }
 
 .container {
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 10vw;
+    margin-right: 10vw;
 }
 
 #video-bg {
@@ -162,4 +162,29 @@ a:hover {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.header_first {
+    margin-top: 70px;
+}
+
+.main__title {
+    border: 1px solid gray;
+    border-top-right-radius: 15%;
+    padding: 20px 40px;
+    background-color: lightgray;
+}
+
+.main__text {
+    border: 1px solid gray;
+    background-color: rgb(241, 238, 238);
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    padding: 20px 40px;
+}
+
+.fire {
+    margin-top: 100px;
+    width: 30vw;
+    height: 40vh;
 }
