@@ -198,3 +198,10 @@ a:hover {
 .link {
     border-radius: 50%;
 }
+
+@media screen and (max-width: 1024px) {
+    .content3 {
+        display: flex;
+        flex-direction: column;
+    }
+}
